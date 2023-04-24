@@ -1,6 +1,10 @@
 # Quick API calls in Ruby
 
-##
+## Installation
+Run bundle install to install the required gems
+Type ruby main.rb to run the program
+
+### Notes
 Using .fetch to throw KeyErrors instead of nil values
 
 ```ruby
